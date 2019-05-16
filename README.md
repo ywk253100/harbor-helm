@@ -287,5 +287,4 @@ The following table lists the configurable parameters of the Harbor chart and th
 
 [resources]: https://kubernetes.io/docs/concepts/configuration/manage-compute-resources-container/
 
-
 just for test
