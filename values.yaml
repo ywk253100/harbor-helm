@@ -347,7 +347,7 @@ registry:
   registry:
     image:
       repository: goharbor/registry-photon
-      tag: v2.7.1-patch-2819-v1.9.0
+      tag: v2.7.1-patch-2819-2553-dev
 
     # resources:
     #  requests:
